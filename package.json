@@ -1,0 +1,27 @@
+{
+  "name": "reindeer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reindeer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhloo/reindeer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buhloo/reindeer/issues"
+  },
+  "homepage": "https://github.com/buhloo/reindeer#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "watch": "^0.18.0"
+  }
+}
